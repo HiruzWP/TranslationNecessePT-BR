@@ -1,7 +1,7 @@
 Changes:
 
-line 111: carpentersbench=Bancada de Carpintaria \n
-line 175: sign=Placa \n
+line 111: carpentersbench=Bancada de Carpintaria
+line 175: sign=Placa
 line 359: feedingtrough=Comedouro
 line 1155: useabilityslot=Use o slot de habilidade de bugiganga
 line 1397: craftingmat=Material
