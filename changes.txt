@@ -30,4 +30,3 @@ line 2449: fishing=Pescando
 line 2450: fertilizing=Fertilizando <target>
 line 2452: attacking=Atacando <target>
 line 2453: resting=Descansando
-TESTAR IN-GAME
