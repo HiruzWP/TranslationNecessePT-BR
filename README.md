@@ -1,5 +1,4 @@
 # Translation Necesse
-
-**some fixes in the translation pt-br**
+**some critial and minimal fixes in the Brazilian portuguese translation**
 
  open changes.txt to see the changes.
