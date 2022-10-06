@@ -19,6 +19,7 @@ line 2073: outsideerr=O quarto está do lado de fora
 line 2075: existserr=O quarto já existe
 line 2076: doorerr=Quarto não tem portas
 line 2078: floorerr=Quarto não tem o piso completo
+line 2079: floorreq=Completar pisos necessários
 line 2080: lighterr=Quarto não tem luzes
 line 2084: roomtoosmall=Quarto é muito pequeno
 line 2085: roomsizereq=Tamanho do quarto deve ser ao menos <size> piso
